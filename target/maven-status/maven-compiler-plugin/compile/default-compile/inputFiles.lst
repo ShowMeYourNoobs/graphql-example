@@ -1,0 +1,11 @@
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/GraphqlExampleApplication.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/repo/entity/BankAccountSpec.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/resolver/BankAccountQueries.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/controller/GraphqlController.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/repo/BankAccountRepository.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/conf/GraphqlConfig.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/repo/entity/BankAccount.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/repo/entity/Currency.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/resolver/input/CreateBankAccountInput.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/resolver/BankAccountMutation.java
+/home/bube/Projects/Idea/graphql-example/src/main/java/com/ljupcho/graphqlexample/graphql/repo/entity/User.java
